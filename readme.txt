@@ -1,3 +1,5 @@
+详情见设计报告。
+
 进入联网对战前请确保:
     开启server.py
     src/ConnectToServer.java中服务器IP地址改为服务器地址
